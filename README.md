@@ -35,3 +35,13 @@ Training converged in **50 epochs (~27 minutes)** on a Tesla T4 GPU.
 ---
 
 ## Project Structure# weed-detection-yolov8
+## Project Structure
+
+| File | Description |
+|------|-------------|
+| `weed_detection.ipynb` | Full pipeline notebook |
+| `weights/best.pt` | Trained model weights |
+| `results/results.png` | Training curves |
+| `results/confusion_matrix.png` | Confusion matrix |
+| `results/PR_curve.png` | Precision-Recall curve |
+| `results/predictions.png` | Sample predictions on test images |
