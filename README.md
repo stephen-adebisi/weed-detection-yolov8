@@ -1,9 +1,3 @@
-# Weed Detection in RGB Imagery Using YOLOv8
-
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-purple)
-![mAP50](https://img.shields.io/badge/mAP%400.50-92.9%25-brightgreen)
-![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
 
 # 🌱 Weed Detection using YOLOv8
 
